@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.lucknowelitecallgirls.com/sitemap.xml
+
+# Google
+User-agent: Googlebot
+Allow: /
+Disallow: /private/
+Crawl-delay: 1
+
+# Bing
+User-agent: Bingbot
+Allow: /
+
+# Allow image indexing
+User-agent: Googlebot-Image
+Allow: /
+
