@@ -1,21 +1,20 @@
-# Max SEO Optimization for Lucknow Callgirls Keywords
-Approved Plan: Prioritize 'lucknow callgirls', 'callgirls in lucknow', 'book callgirl lucknow' + variants/long-tail. Add nearby (Kanpur, Unnao). Natural density, plurals in titles/content/schema/CTAs.
+# SEO Updates for "Escorts in Lucknow - Premium Call Girls Available 24/7"
 
-## Steps to Complete:
+**Approved Plan:** Integrate new title, description, and "escorts"/"call girls" (plural) keywords across main pages while preserving existing "callgirls" optimizations (rotations, schema, sr-only).
 
-### Phase 1: Core Page Optimizations (High Priority)
-- [x] Step 1: Update index.html - rotating titles/descriptions (10x plural focus), sr-only H1s/sections (+nearby), hero/chips plurals, internal links, schema keywords.
-- [x] Step 2: Update services.html - titles rotation (plurals), service cards/buttons (e.g., 'book callgirls in lucknow'), expand FAQ schema.
-- [x] Step 3: Update locations.html - title/meta (plurals + nearby), add Kanpur/Unnao cards, pluralize, more Place schemas.
+## Steps from Plan:
 
-### Phase 2: Technical SEO
-- [x] Step 4: Update sitemap.xml - lastmod/priorities/images.
-- [x] Step 5: robots.txt - no change needed.
+### Phase 1: Core Page Optimizations
+- [ ] Step 1: Create TODO.md with full breakdown ✅
+- [ ] Step 2: Update index.html (title, meta, hero, rotations, schema, sr-only)
+- [x] Step 3: Update services.html (title, meta, hero, service texts)
+- [ ] Step 4: Update locations.html (title, meta, hero/locations)
+- [ ] Step 5: Update TODO.md with progress marks
 
-### Phase 3: Validation & Testing
-- [x] Step 6: execute_command for local server test (http.server 8000).
-- [x] Step 7: Update this TODO with completion marks.
-- [x] Step 8: All steps complete - SEO optimized for lucknow callgirls keywords.
+### Phase 2: Technical & Validation
+- [x] Step 6: Local server test with `python -m http.server 8000`
+- [ ] Step 7: Final schema/SEO validation
+- [ ] Step 8: Task complete - attempt_completion
 
-**Progress:** 0/8 complete. Edits start with index.html.
+**Progress:** 4/8 complete. Updated index.html, services.html, locations.html titles/metas, TODO progress.
 

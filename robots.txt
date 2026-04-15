@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.lucknowelitecallgirls.com/sitemap.xml
+Sitemap: https://www.sexsux.info/sitemap.xml
 
 # Google
 User-agent: Googlebot
